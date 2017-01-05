@@ -2,6 +2,10 @@
 
 Practice SpriteKit and Objective-C by Xcode.
 
+# Present
+
+![](https://ww4.sinaimg.cn/large/006y8lVagw1fbfv2oklydg30g90u07h9.gif)
+
 # Usage
 
 1. This project is only implemented by Xcode on Mac, so please make sure you have installed Xcode on your Mac.
